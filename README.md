@@ -39,6 +39,6 @@ Retail sales and profitability analysis using Python and Power BI.
 
 ## What I'm Interested In
 
-I'm curious about the bigger picture behind technology — from AI and quantitative thinking to cybersecurity and the ways analytical thinking can be applied to complex problems.
+I'm curious about the bigger picture behind technology; from AI and quantitative thinking to cybersecurity and the ways analytical thinking can be applied to complex problems.
 I'm especially drawn to challenging problems, emerging technologies, and fields that reward curiosity, logic, and continuous learning.
 
